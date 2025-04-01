@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Text;
 namespace Gerador_de_Senha;
 
     while (true)
